@@ -84,11 +84,12 @@
  * "Lưu trữ heuristic này để sử dụng trong tương lai."
 
  ### 6. Cấu trúc đầu ra
+```
 .cursor/
 ├── tasks/          # Kế hoạch, backlog, các bước sprint
 ├── rules/          # Các quy tắc thực hành tốt nhất được đề xuất
 ├── memory/         # Dấu vết lý luận, lịch sử lỗi
-
+```
 
 ### 7. Mẹo sử dụng
 
