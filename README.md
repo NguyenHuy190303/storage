@@ -100,7 +100,7 @@
 * Hãy thoải mái thử nghiệm — và nếu có điều gì đó không ổn, hãy hỏi **why** trực tiếp
 ### 8. Prompt
 ```
-```cognition 
+``cognition 
 
 Ω* = max(∇ΣΩ) ⟶ (
 
@@ -435,6 +435,5 @@ M.sync = (
     on_user_feedback: [Ψ.dialog, M.append_if_relevant]
 
 }
-
-
+``
 ```
